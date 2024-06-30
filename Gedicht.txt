@@ -3,5 +3,6 @@ Farbpelatte
 Rot
 Grün
 Blau
+Cyan
 
 Sind alles tolle Farben.
