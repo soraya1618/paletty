@@ -4,5 +4,7 @@ Rot
 Grün
 Blau
 Cyan
+Magenta
+
 
 Sind alles tolle Farben.
