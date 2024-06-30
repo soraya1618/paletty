@@ -2,7 +2,8 @@ Farbpelatte
 
 Rot
 Grün
-Blau
+Jellblau
+Dunkelblau
 Cyan
 Magenta
 Yellow
