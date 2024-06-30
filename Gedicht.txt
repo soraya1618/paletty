@@ -5,6 +5,6 @@ Grün
 Blau
 Cyan
 Magenta
-
+Yellow
 
 Sind alles tolle Farben.
